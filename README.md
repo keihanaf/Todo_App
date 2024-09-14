@@ -5,7 +5,7 @@
 </div>
 <br>
 <p>
-    todo app is a JavaScript project that has two inputs, one for adding a todo and one for adding the date of that todo, which adds your todos to the list of todos by pressing the add button. Let's edit and it has two statuses, one in progress and one completed, and we can delete them individually or delete them all together, and we have a filter in this program that is completed or in progress or all of them.
+    Todo app is a JavaScript project that has two inputs, one for adding a Todo and one for adding the date of that Todo, which adds your Todos to the list of Todos by pressing the add button. Then you can edit it and it has two statuses, one in pending  and one completed, and we can delete them individually or delete them all together. This app also can sorts your Todos in 3 groups, one for pending, one for completed ones and the other for all of them.
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
