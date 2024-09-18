@@ -7,6 +7,10 @@
 <p>
     Todo app is a JavaScript project that has two inputs, one for adding a Todo and one for adding the date of that Todo, which adds your Todos to the list of Todos by pressing the add button. Then you can edit it and it has two statuses, one in pending  and one completed, and we can delete them individually or delete them all together. This app also can sorts your Todos in 3 groups, one for pending, one for completed ones and the other for all of them.
 </p>
+<br>
+<h3><a href="https://todo-app-two-kappa-24.vercel.app">View Todo App</a></h3>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
